@@ -1,6 +1,6 @@
 <h1 align="center">hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center"> Soy un desarrollador <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ecuatoriano.</p>
-<p align="center"> hola, soy un estudiante de la Universidad Técnica de Ambato, con conocimientos intermedios en lenguajes como Java, PHP y c#.
+<p align="center">Soy un estudiante de la Universidad Técnica de Ambato, con conocimientos intermedios en lenguajes como Java, PHP y c#.
 Aqui encontraras varios de los proyectos en que eh trabajado en el transcurso de mis estudios</p>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
